@@ -2,8 +2,7 @@ body {
     background-image: url('https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/hockey-net-on-frozen-lake-ascentpks-media-inc.jpg');
     background-size: cover;
     height: 100vh;
-    /*background-color: #c3e9ff;
-    color: #031346;*/
+
   }
   .center {
     display: flex;
